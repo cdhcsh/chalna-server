@@ -86,7 +86,7 @@
         </tr>
         <tr>
           <td>최동환</td>
-          <td>Security, 리펙토링, 장소 채팅</td>
+          <td>Security, 친구관계, 리펙토링, 채팅, 장소 채팅</td>
         </tr>
         <tr>
           <td>김주영</td>
